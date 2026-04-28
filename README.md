@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي معاك
+> طول الليل أنا بستناك
+> نار الشوق بتنادي عليك
+> روحي وعمري بين إيديك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
