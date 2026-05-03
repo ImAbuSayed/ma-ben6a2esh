@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Ma Ben6a2esh |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 29, 2026 |
+| Lyric Writing Date | April 28, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma-ben6a2esh/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي معاك
+> طول الليل أنا بستناك
+> نار الشوق بتنادي عليك
+> روحي وعمري بين إيديك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
