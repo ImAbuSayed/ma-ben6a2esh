@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Ma Ben6a2esh |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 29, 2026 |
+| Lyric Writing Date | April 28, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma-ben6a2esh/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
